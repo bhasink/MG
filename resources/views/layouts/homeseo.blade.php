@@ -1,0 +1,1 @@
+<meta property="og:description" content="Microgravity Ventures is an entertainment hub & gaming arena in Gurgaon(Delhi NCR) that features modern simulators & state-of-the-art technology for multiplayer VR games.">

@@ -1,0 +1,321 @@
+p {
+    font-weight: 400 !important;
+}
+
+section.topbannermain img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+section.topbannermain {
+    height: 649px;
+    position: relative;
+    overflow: hidden;
+}
+
+.registerforms h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffce00;
+    font-size: 20px;
+    text-align: center;
+}
+
+.registerforms  .form-control {
+    background: transparent;
+    border: none;
+	border-bottom: 0.5px solid #ffce00;
+    border-radius: 0px;
+    padding: 0 0px;
+    height: auto;
+    color: #fff;
+}
+
+.registerforms .form-control option{
+	color:#000;
+}
+
+.registerforms  label.col-form-label {
+    color: #fff;
+}
+
+.registerforms {
+    position: absolute;
+    top: 181px;
+}
+
+.registerforms .hdred-cta {
+    background: #ffce00;
+    padding: 3px 29px;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: all ease 0.6s;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000;
+    display: inline-block;
+    margin: auto;
+}
+
+section.aboutcontmgs {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.headmns {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.headmns .common-title {
+    display: inline-block;
+	    text-transform: uppercase;
+}
+
+a.registerblacks {
+    background: #333833;
+    padding: 6px 22px;
+    color: #ffce00;
+    font-weight: 600;
+}
+
+.ifmrs {
+    margin-top: 30px;
+}
+
+.ifmrs iframe.mgframe {
+    max-width: 691px;
+    width: 100%;
+    height: 389px;
+}
+
+.godessjournery {
+    position: relative;
+    padding: 40px 0;
+    overflow: hidden;
+}
+
+.godessjournery .dekstopbgass {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.godessjournery h2.common-title {
+    position: relative;
+    color: #ffce00;
+    text-transform: uppercase;
+}
+
+.godessjournery h2.common-title::after {
+    z-index: 9;
+    width: 100px;
+    border-color: #fff;
+    border-bottom: 6px solid #fff;
+}
+
+.godessjournery  .grdsblacks {
+    background: #000000b5;
+    padding: 20px;
+    margin-bottom: 25px;
+	    min-height: 262px;
+	
+}
+
+.godessjournery .grdsblacks h5, .godessjournery .grdsblacks p {
+    color: #fff;
+	text-align: left;
+}
+
+.grdsblacks h5 {
+    margin-bottom: 22px;
+    position: relative;
+    display: inline-block;
+}
+
+.grdsblacks h5:after {
+    content: "";
+    border-bottom: 4px solid #fff;
+    width: 43%;
+    height: 6px;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    right: 0;
+    transition-delay: 5s;
+    bottom: -10px;
+    transition: all .4s ease-in-out;
+}
+
+.godessjournery p {
+    color: #fff;
+    position: relative;
+    text-align: center;
+}
+
+.register-nows p {
+    margin: 0;
+}
+
+.register-nows  a.registerblacks {
+    position: relative;
+    margin: 20px 0;
+    display: inline-block;
+    background: #ffce00;
+    padding: 6px 22px;
+    color: #333833;
+    font-weight: 600;
+}
+
+.register-nows {
+    text-align: center;
+}
+
+.whatyougets {
+    padding: 40px 0;
+	
+}
+
+.geticonsgmd img {
+    width: 106px;
+    margin-bottom: 30px;
+}
+
+.geticonsgmd {
+    text-align: center;
+    padding-top: 36px;
+}
+
+.geticonsgmd .gmacss {background: #ffce00;min-height: 65px;display: flex;flex-direction: column;align-items: center;align-content: center;padding: 10px 0;font-size: 20px;}
+
+.gamersgodsss{
+	background: #f5f5f5;
+	padding: 40px 0;
+}
+
+.blackboxmens {
+    padding: 30px;
+    background: #000;
+    text-align: center;
+    max-width: 225px;
+    margin: auto;
+    margin-bottom: 40px;
+    border-radius: 20px;
+	    min-height: 122px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blackboxmens h6 {
+    color: #fff;
+    font-size: 24px;
+    margin: auto;
+}
+
+.headmns .common-title p {
+    margin: 0;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+
+.gamersgodsss .headmns .common-title:after {
+    z-index: 2;
+    width: 11%;
+    border-bottom: 6px solid #ffcd00;
+}
+
+.blackboxmens i {
+    transform: rotate(
+135deg
+);
+    color: #ffce00;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 14px;
+	font-size: 24px;
+}
+
+.gramentors {
+    background: #ddd;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.aboutcontmgs b {
+    font-weight: 600;
+}
+
+p.footer-address, footer span.reachphn, footer a{
+	font-weight: 400 !important;
+}
+
+.registerforms .form-check label {
+    font-size: 11px;
+    color: #fff;
+}
+
+.form-group.row.ntapt {
+    margin-bottom: 5px;
+}
+
+.form-group.row.ntapt label {
+    padding-bottom: 0;
+    padding-top: 0;
+    font-size: 12px;
+}
+
+.registerforms .form-check {
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width:320px) and (max-width:767px){
+	.registerforms {
+    position: relative;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    background: #000;
+    padding: 20px;
+    top: 38%;
+}
+
+section.topbannermain{    height: auto;}
+section.topbannermain{height: 570px;}
+.godessjournery .dekstopbgass {
+    width: 614%;
+}
+
+.registerforms .form-check label{margin-bottom: 10px;}
+
+.ifmrs iframe.mgframe{height: 217px;}
+
+}
+
+
+
+@media screen and (max-width: 1024px) and (min-width:768px) {
+	.registerforms {
+    position: absolute;
+    top: 106px;
+}
+
+section.topbannermain {
+    overflow: hidden;
+	    height: 427px;
+}
+
+section.topbannermain img {
+    width: 114%;
+    left: -17px;
+}
+
+.godessjournery .dekstopbgass {
+    width: 167%;
+}
+
+} 
+

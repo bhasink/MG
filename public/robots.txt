@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /cgi-bin/
+Disallow: /exec/
+Disallow: /admin/
+Disallow: /404
+Disallow: /cart
+Disallow: /login
+
+Sitemap: https://www.microgravity.co.in/sitemap.xml

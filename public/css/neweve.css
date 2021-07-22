@@ -1,0 +1,253 @@
+.hero-text-about {
+    background: url(../images/eventsmain.jpg) center no-repeat;
+    background-position: 100% 82%;
+	background-size: cover;
+    height: 84vh;
+}
+
+
+.mgcallevent{
+	   background: url(../images/mggaming.jpg) center no-repeat;
+    background-position: 100% 82%;
+	background-size: cover;
+    height: 84vh;
+}
+
+
+.medialisting-thumb {
+    padding: 80px 0;
+}
+
+.thumblistings {
+    background: #f7f7f7;
+    padding: 17px 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    display: inline-block;
+    margin-right: 33px;
+	min-height: 116px;
+}
+
+.thumbheads {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+}
+
+.thumbheads:hover {
+    text-decoration: none;
+}
+
+.thumblistings p.datesposttime {
+    margin: 0;
+    font-size: 15px;
+    color: #757d75;
+}
+
+/* for recharge page */
+
+.cardcommon {
+    width: 100%;
+    padding: 10px;
+    border: 3px solid #fece00;
+    border-radius: 10px;
+    box-shadow: #d2c9c9 0px 8px 6px 0px;
+    background: url(https://163112-1350000-raikfcquaxqncofqfm.stackpathdns.com/images/games/allgamesnew1.jpg);
+    margin-bottom: 30px;
+    position: relative;
+    min-height: 225px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+	cursor:pointer;
+    flex-direction: column;
+}
+
+.cardcommon.gametypetwo {
+    background: url('https://163112-1350000-raikfcquaxqncofqfm.stackpathdns.com/images/games/allgamesnew2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.cardcommon.gametypethree {
+    background: url('https://163112-1350000-raikfcquaxqncofqfm.stackpathdns.com/images/games/allgamesnew3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.cardcommon.gametypefour {
+    background: url('https://163112-1350000-raikfcquaxqncofqfm.stackpathdns.com/images/games/allgamesnew4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.gamingrecharge .active .cardcommon {
+    border: 3px solid #fe0000;
+}
+
+.gamingrecharge .cardcommon p.stausgamesd {
+    opacity: 0;
+    color: #fff;
+}
+
+.gamingrecharge .active .cardcommon p.stausgamesd {
+    opacity: 1;
+}
+
+.cardcommon .form-check {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    padding: 0;
+    opacity: 0;
+}
+
+.cardcommon:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #33383380;
+}
+
+.midcont {
+    margin: auto;
+    z-index: 3;
+}
+
+.cardcommon .form-check .form-check-label {
+    width: 100%;
+    height: 100%;
+}
+
+.cardcommon .form-check input {
+    margin: 0;
+}
+
+.cardcommon h4 {
+    font-weight: 600;
+    color: #fff;
+    z-index: 3;
+    text-transform: uppercase;
+}
+
+p.gmprice {
+   font-size: 30px; 
+    color: #fff;
+    font-weight: 700;
+    color: #fece00;
+    margin: 0 auto;
+    z-index: 3;
+}
+
+.selectopcard select {
+    background: transparent;
+    border: 2px solid #fece00;
+    -webkit-appearance: auto;
+    padding: 9px 6px;
+    display: inline-block;
+    border-radius: 4px;
+    width: 278px;
+} 
+
+
+@media screen and (max-width: 767px){
+	.hero-text-about{
+		background: url(../images/eventmobiles.jpg) center no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 64vh;
+	}
+	
+	.mgcallevent{
+	   background: url(../images/Gameleaguebanner-316x520.jpg) center no-repeat;
+  background-position: 100%;
+    background-size: cover;
+    height: 80vh;
+}
+
+}  
+
+.hero-text-about:after{
+	border-bottom: 10px solid #fe0000;
+}
+
+.lightbga {
+    background: #f7f7f7;
+    padding: 50px 0;
+}
+
+
+
+.img-hover:hover:after{
+	    bottom: 5px;
+		width:99%;
+}
+
+.all-events.myevents {
+    margin-top: 0;
+    padding: 80px 0 0;
+}
+
+.evtcircl img {
+    width: 100%;
+}
+
+.what-you-get-icons {
+    margin: 0 auto;
+    width: 56%;
+	    margin-bottom: 50px;
+}
+
+.icontag img {
+    width: 44px;
+    margin: 20px 0;
+}
+
+p.netgs {
+    font-weight: 600;
+    background: #ffcd00;
+    display: inline-block;
+    padding: 0 13px;
+    margin: 0 0 4px 0;
+}
+
+.winnprizes {
+    margin-top: 50px;
+}
+
+.gallery.yellobdr {
+    margin-top: 50px;
+}
+
+
+.gallery.yellobdr .img-hover-gallery:hover:after {
+    border-bottom: 45px solid #ffcd00;
+}
+
+.blumedithumb {
+    background: #0757e5;
+}
+
+.blumedithumb h1.mdt {
+    color: #fff;
+}
+
+.blumedithumb .slick-prev, .blumedithumb .slick-next{
+    opacity: 1;
+    color: #fff;
+}
+
+.blumedithumb .slick-prev:before, .blumedithumb .slick-next:before {
+    content: "";
+    opacity: 1;
+    color: #fff;
+    filter: brightness(0%) invert(1);
+}
