@@ -709,6 +709,8 @@
             var play_date = document.getElementById("gdate");
             play_date = play_date.value;
 
+            fbq('track', 'AddToCart');
+
             $.ajaxSetup({
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
@@ -875,6 +877,8 @@
             var product_type_name = $("#slot-player").html();
             var play_date = document.getElementById("gdate");
             play_date = play_date.value;
+
+            fbq('track', 'InitiateCheckout');
 
             $.ajaxSetup({
                 headers: {
