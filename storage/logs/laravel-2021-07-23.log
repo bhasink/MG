@@ -6937,3 +6937,86 @@
 [2021-07-23 22:11:08] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-24 00:00:00' and mg_starttime le '2021-07-24 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
 [2021-07-23 22:11:08] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-24' and mg_starttime le '2021-07-24 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
 [2021-07-23 22:30:34] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-23 22:30:31' and mg_starttime le '2021-07-23 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
+[2021-07-23 22:31:03] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-24 00:00:00' and mg_starttime le '2021-07-24 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
+[2021-07-23 22:31:04] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-24 00:00:00' and mg_starttime le '2021-07-24 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
+[2021-07-23 22:31:19] production.INFO: array (
+  '@odata.etag' => 'W/"28598174"',
+  'mg_slotitemsid' => '1f310539-7ee5-eb11-bacb-000d3ac9f1f8',
+  'mg_name' => '11:00-11:30 MGROAD',
+  '_mg_productfamily_value' => '02d8dd5e-9a37-ea11-a813-000d3a0a7551',
+  'mg_starttime' => '2021-07-24T11:00:00Z',
+  'mg_endtime' => '2021-07-24T11:30:00Z',
+  '_mg_store_value' => 'b5962233-b421-ea11-a810-000d3a0a7551',
+  'mg_playersbooked' => '0',
+  'mg_maximumplayersallowed' => '8',
+  '_mg_subproduct_value' => 'a4c39887-1569-ea11-a812-000d3a0a7551',
+  'mg_playersbookingunderprocess' => '0',
+)  
+[2021-07-23 22:31:21] production.INFO: array (
+  '@odata.etag' => 'W/"28598174"',
+  'mg_slotitemsid' => '1f310539-7ee5-eb11-bacb-000d3ac9f1f8',
+  'mg_name' => '11:00-11:30 MGROAD',
+  '_mg_productfamily_value' => '02d8dd5e-9a37-ea11-a813-000d3a0a7551',
+  'mg_starttime' => '2021-07-24T11:00:00Z',
+  'mg_endtime' => '2021-07-24T11:30:00Z',
+  '_mg_store_value' => 'b5962233-b421-ea11-a810-000d3a0a7551',
+  'mg_playersbooked' => '0',
+  'mg_maximumplayersallowed' => '8',
+  '_mg_subproduct_value' => 'a4c39887-1569-ea11-a812-000d3a0a7551',
+  'mg_playersbookingunderprocess' => '0',
+)  
+[2021-07-23 22:31:23] production.INFO: array (
+  '@odata.etag' => 'W/"28598174"',
+  'mg_slotitemsid' => '1f310539-7ee5-eb11-bacb-000d3ac9f1f8',
+  'mg_name' => '11:00-11:30 MGROAD',
+  '_mg_productfamily_value' => '02d8dd5e-9a37-ea11-a813-000d3a0a7551',
+  'mg_starttime' => '2021-07-24T11:00:00Z',
+  'mg_endtime' => '2021-07-24T11:30:00Z',
+  '_mg_store_value' => 'b5962233-b421-ea11-a810-000d3a0a7551',
+  'mg_playersbooked' => '0',
+  'mg_maximumplayersallowed' => '8',
+  '_mg_subproduct_value' => 'a4c39887-1569-ea11-a812-000d3a0a7551',
+  'mg_playersbookingunderprocess' => '0',
+)  
+[2021-07-23 22:32:22] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-23 22:32:19' and mg_starttime le '2021-07-23 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
+[2021-07-23 22:32:27] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-24 00:00:00' and mg_starttime le '2021-07-24 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
+[2021-07-23 22:32:28] production.INFO: https://mgravity.api.crm8.dynamics.com/api/data/v9.1/mg_slotitemses?$select=mg_slotitemsid,mg_name,_mg_productfamily_value,mg_starttime,mg_endtime,_mg_store_value,mg_playersbooked,mg_maximumplayersallowed,_mg_subproduct_value,mg_playersbookingunderprocess&$filter=mg_starttime ge '2021-07-24 00:00:00' and mg_starttime le '2021-07-24 23:59:59' and _mg_productfamily_value eq '02d8dd5e-9a37-ea11-a813-000d3a0a7551' and statuscode eq 140180001 and _mg_store_value eq 'b5962233-b421-ea11-a810-000d3a0a7551'   
+[2021-07-23 22:32:31] production.INFO: array (
+  '@odata.etag' => 'W/"28211670"',
+  'mg_slotitemsid' => '2b310539-7ee5-eb11-bacb-000d3ac9f1f8',
+  'mg_name' => '13:00-13:30 MGROAD',
+  '_mg_productfamily_value' => '02d8dd5e-9a37-ea11-a813-000d3a0a7551',
+  'mg_starttime' => '2021-07-24T13:00:00Z',
+  'mg_endtime' => '2021-07-24T13:30:00Z',
+  '_mg_store_value' => 'b5962233-b421-ea11-a810-000d3a0a7551',
+  'mg_playersbooked' => '0',
+  'mg_maximumplayersallowed' => '8',
+  '_mg_subproduct_value' => '652fe5b2-1569-ea11-a812-000d3a0a7551',
+  'mg_playersbookingunderprocess' => '0',
+)  
+[2021-07-23 22:32:45] production.INFO: array (
+  '@odata.etag' => 'W/"28211670"',
+  'mg_slotitemsid' => '2b310539-7ee5-eb11-bacb-000d3ac9f1f8',
+  'mg_name' => '13:00-13:30 MGROAD',
+  '_mg_productfamily_value' => '02d8dd5e-9a37-ea11-a813-000d3a0a7551',
+  'mg_starttime' => '2021-07-24T13:00:00Z',
+  'mg_endtime' => '2021-07-24T13:30:00Z',
+  '_mg_store_value' => 'b5962233-b421-ea11-a810-000d3a0a7551',
+  'mg_playersbooked' => '0',
+  'mg_maximumplayersallowed' => '8',
+  '_mg_subproduct_value' => '652fe5b2-1569-ea11-a812-000d3a0a7551',
+  'mg_playersbookingunderprocess' => '0',
+)  
+[2021-07-23 22:32:49] production.INFO: array (
+  '@odata.etag' => 'W/"28211670"',
+  'mg_slotitemsid' => '2b310539-7ee5-eb11-bacb-000d3ac9f1f8',
+  'mg_name' => '13:00-13:30 MGROAD',
+  '_mg_productfamily_value' => '02d8dd5e-9a37-ea11-a813-000d3a0a7551',
+  'mg_starttime' => '2021-07-24T13:00:00Z',
+  'mg_endtime' => '2021-07-24T13:30:00Z',
+  '_mg_store_value' => 'b5962233-b421-ea11-a810-000d3a0a7551',
+  'mg_playersbooked' => '0',
+  'mg_maximumplayersallowed' => '8',
+  '_mg_subproduct_value' => '652fe5b2-1569-ea11-a812-000d3a0a7551',
+  'mg_playersbookingunderprocess' => '0',
+)  
